@@ -80,7 +80,7 @@ header p{
 .cards{
     background-color: hsl(300, 43%, 22%);
     border-radius: 10px;
-    max-width: 330px;
+    max-width: 350px;
     height: 250px;
     padding: 37px;
     margin: 16px 24px 0px 24px;
@@ -214,6 +214,9 @@ header p{
     }
     .cards{
         margin: 0;
+    }
+    .cards p{
+        font-size: 20px;
     }
 }
 
